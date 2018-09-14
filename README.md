@@ -1,2 +1,0 @@
-# workshop-gcp-saas
-PetClinic

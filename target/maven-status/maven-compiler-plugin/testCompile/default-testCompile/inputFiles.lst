@@ -1,0 +1,11 @@
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/VisitControllerTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetControllerTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetControllerTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/OwnerControllerTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/EntityUtils.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/ProductionConfigurationTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetTypeFormatterTests.java
+/home/victor/git/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql/spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerTests.java
